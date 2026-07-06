@@ -6,5 +6,5 @@ def subtract(a, b):
 
 if __name__ == "__main__":
     print("CI/CD PoC")
-    print(f"5 + 3 = {add(5,3)})
+    print(f"5 + 3 = {add(5,3)"})
     print("CI/CD PoC")
